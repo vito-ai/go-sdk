@@ -1,4 +1,4 @@
-module github.com/vito-ai
+module github.com/vito-ai/go-sdk
 
 go 1.23.0
 

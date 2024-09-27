@@ -12,8 +12,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/vito-ai/auth"
-	"github.com/vito-ai/auth/option"
+	"github.com/vito-ai/go-sdk/auth"
+	"github.com/vito-ai/go-sdk/auth/option"
 )
 
 var ErrNotFinish = errors.New("result is not complete yet")

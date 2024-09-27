@@ -3,7 +3,7 @@ package auth
 import (
 	"net/http"
 
-	"github.com/vito-ai/auth/option"
+	"github.com/vito-ai/go-sdk/auth/option"
 )
 
 type authTransport struct {

@@ -11,8 +11,8 @@ import (
 	"google.golang.org/grpc/credentials"
 	"google.golang.org/grpc/metadata"
 
-	"github.com/vito-ai/auth"
-	"github.com/vito-ai/auth/option"
+	"github.com/vito-ai/go-sdk/auth"
+	"github.com/vito-ai/go-sdk/auth/option"
 )
 
 type gRPCClient struct {

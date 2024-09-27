@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/vito-ai/auth/credentials"
-	"github.com/vito-ai/auth/option"
+	"github.com/vito-ai/go-sdk/auth/credentials"
+	"github.com/vito-ai/go-sdk/auth/option"
 )
 
 // TokenProvider Interface

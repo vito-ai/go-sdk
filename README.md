@@ -1,5 +1,4 @@
 # RTZR STT SDK for golang
----
 
 Go packages for [RTZR STT API](https://developers.rtzr.ai/docs/) service.
 
